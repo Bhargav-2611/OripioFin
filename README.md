@@ -1,4 +1,4 @@
-# 💰 Finance Dashboard UI
+# 💰 OripioFin Dashboard UI
 
 ## 📌 Project Overview
 The **Finance Dashboard UI** is a responsive frontend application built using **HTML, CSS, and JavaScript** to help users track and understand their financial activities.
